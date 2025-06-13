@@ -85,4 +85,6 @@ Ready to explore further? Use the official link below to begin:
 This guide is for **educational purposes only**. We do not endorse or promote illegal activities. Accessing or using darknet markets may violate local laws. Proceed with caution and ensure compliance with all applicable regulations.
 
 
-Update: link is live and functioning
+
+
+Update:  13 June 2025
