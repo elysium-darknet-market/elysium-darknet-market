@@ -99,4 +99,6 @@ This guide is for **educational purposes only**. We do not endorse or promote il
 
 
 
-Update:  26.06.2025 08:40
+
+
+Update: Fixed broken url, now accessible
