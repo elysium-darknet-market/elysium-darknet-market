@@ -103,4 +103,6 @@ This guide is for **educational purposes only**. We do not endorse or promote il
 
 
 
-Update:  07.07.2025 Dead links
+
+
+Update:  14 July url is now functioning and accessible
