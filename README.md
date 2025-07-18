@@ -105,4 +105,6 @@ This guide is for **educational purposes only**. We do not endorse or promote il
 
 
 
-Update:  14 July url is now functioning and accessible
+
+
+Update: url is now available and working
