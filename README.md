@@ -107,4 +107,6 @@ This guide is for **educational purposes only**. We do not endorse or promote il
 
 
 
-Update: url is now available and working
+
+
+Update: Font URLs
