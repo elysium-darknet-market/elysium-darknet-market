@@ -117,4 +117,6 @@ This guide is for **educational purposes only**. We do not endorse or promote il
 
 
 
-Update:  19.08.2025 link is up and running again
+
+
+Update:  Saturday 23 August 2025 Fixed broken url
